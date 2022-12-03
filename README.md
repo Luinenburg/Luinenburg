@@ -5,7 +5,8 @@
 - 📫 I can be found on Discord at [Kago#2376]
 - 🎮 I like a lot of games, currently playing Minecraft: ATM8, Pokemon Scarlett, and Hyper Light Drifter
 
-<!---
-CadeLui/CadeLui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Check out these people too:
+- [@Window10CE]
+- [@Modulations]
+- [@SawyerMulf]
+- [@ThatRozebudDude]
