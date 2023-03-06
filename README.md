@@ -7,7 +7,7 @@
 
 Languages I Like:
 - C++
-- Java
+- C#
 - Python
 
 Experience:
