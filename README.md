@@ -10,11 +10,13 @@ Languages I Like:
 - C#
 - Python
 
-Experience:
+Education:
 - CS Principals AP and CS AP in High School
+- Studying IT at NJIT
+
+Experience:
 - Being a geek since Middleschool
 - Robotics Club in Highschool
-- Studying IT at NJIT
 
 Other Links:
 - [IsoSim](https://isosim.neocities.org/)
