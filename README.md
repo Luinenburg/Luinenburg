@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kate Luinenburg [@CadeLui](https://github.com/CadeLui).
+- 👋 Hi, I’m Kate Luinenburg [@Luinenburg](https://github.com/Luinenburg).
 - 👀 I’m interested in a lot of things, particularly computer networking.
 - 🌱 I’m currently playing with Java for class.
 - 💞️ I’m goofing with my own projects now, not looking to collab.
