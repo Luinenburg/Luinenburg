@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kate Luinenburg [@Luinenburg](https://github.com/Luinenburg).
+- 👋 Hi, I’m Sophie Luinenburg [@Luinenburg](https://github.com/Luinenburg).
 - 👀 I’m interested in a lot of things, particularly computer networking.
 - 🌱 I’m currently making it through school.
 - 💞️ I’m goofing with my own projects now, not looking to collab.
