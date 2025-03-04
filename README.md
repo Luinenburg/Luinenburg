@@ -6,7 +6,7 @@
 - 🎮 I like a lot of games, currently playing Baldurs Gate 3, Sonic X Shadow Generations, and Slime Rancher 2
 
 Languages I Like:
-- C++
+- Python
 - C#
 - Rust
 
