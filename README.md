@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cade Luinenburg [@Luinenburg](https://github.com/Luinenburg).
+- 👋 Hi, I like computers! [@Luinenburg](https://github.com/Luinenburg).
 - 👀 I’m interested in a lot of things, particularly computer networking.
 - 🌱 I’m currently making it through school.
 - 💞️ I’m goofing with my own projects now, not looking to collab.
@@ -18,6 +18,7 @@ Experience:
 
 Other Links:
 - [IsoSim](https://isosim.neocities.org/)
+- [My Webpage](https://luinenburg.neocities.org/)
 
 
 Check out these people too:
