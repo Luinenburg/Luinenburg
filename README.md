@@ -2,8 +2,7 @@
 - 👀 I’m interested in a lot of things, particularly computer networking.
 - 🌱 I’m currently making it through school.
 - 💞️ I’m goofing with my own projects now, not looking to collab.
-- 📫 I can be found on Discord at [sudsy_soapy], although I don't respond unless I already know your contacting me.
-- 🎮 I like a lot of games, currently playing Baldurs Gate 3, Sonic X Shadow Generations, and Slime Rancher 2
+- 🎮 I like a lot of games, currently playing Doom Eternal, Stardew Valley, and Minecraft
 
 Languages I Like:
 - Python
