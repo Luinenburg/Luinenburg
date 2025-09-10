@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things, particularly computer networking.
 - 🌱 I’m currently making it through school.
 - 💞️ I’m goofing with my own projects now, not looking to collab.
-- 🎮 I like a lot of games, currently playing Doom Eternal, Stardew Valley, and Minecraft
+- 🎮 I like a lot of games, currently playing Silent Hill 2.
 
 Languages I Like:
 - Python
@@ -10,7 +10,7 @@ Languages I Like:
 - Rust
 
 Education:
-- Studying Network and Network Security at NJIT
+- Studying IT with specialization in Network and Network Security at NJIT
 
 Experience:
 - Being a geek since Middleschool
